@@ -1,0 +1,10 @@
+#文件
+/CardGame/Assembly-CSharp-vs.csproj
+/CardGame/Assembly-CSharp.csproj
+/CardGame/New Unity Project-csharp-csharp.sln
+/CardGame/New Unity Project.sln
+/CardGame/New Unity Project.userprefs
+# 文件夹
+/CardGame/Library/
+/CardGame/obj/
+/CardGame/Temp/
